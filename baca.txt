@@ -1,0 +1,7 @@
+admin
+user : admin
+pass : admin
+=================
+staf
+user : staf
+pass : staf
